@@ -1,0 +1,1 @@
+ bin/doprnt.d  bin/doprnt.p1:  /opt/microchip/xc8/v1.45/sources/common/doprnt.c
